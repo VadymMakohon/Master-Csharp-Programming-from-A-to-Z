@@ -17,3 +17,6 @@ Unlock the full potential of .NET with this comprehensive course designed for bo
 - Aspiring Developers: Start your career in software development with a strong foundation in .NET.
 - Experienced Developers: Enhance your skills and stay up-to-date with the latest .NET technologies and best practices.
 - Students: Gain practical knowledge that complements your academic studies and prepares you for real-world development.
+
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
