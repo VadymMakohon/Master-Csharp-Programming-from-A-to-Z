@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vadymmakohon/Desktop/C#/HelloWorldApp/HelloWorldApp.csproj": {}
+    "/Users/vadymmakohon/Desktop/Master-Csharp-Programming-from-A-to-Z/HelloWorldApp/HelloWorldApp.csproj": {}
   },
   "projects": {
-    "/Users/vadymmakohon/Desktop/C#/HelloWorldApp/HelloWorldApp.csproj": {
+    "/Users/vadymmakohon/Desktop/Master-Csharp-Programming-from-A-to-Z/HelloWorldApp/HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vadymmakohon/Desktop/C#/HelloWorldApp/HelloWorldApp.csproj",
+        "projectUniqueName": "/Users/vadymmakohon/Desktop/Master-Csharp-Programming-from-A-to-Z/HelloWorldApp/HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "/Users/vadymmakohon/Desktop/C#/HelloWorldApp/HelloWorldApp.csproj",
+        "projectPath": "/Users/vadymmakohon/Desktop/Master-Csharp-Programming-from-A-to-Z/HelloWorldApp/HelloWorldApp.csproj",
         "packagesPath": "/Users/vadymmakohon/.nuget/packages/",
-        "outputPath": "/Users/vadymmakohon/Desktop/C#/HelloWorldApp/obj/",
+        "outputPath": "/Users/vadymmakohon/Desktop/Master-Csharp-Programming-from-A-to-Z/HelloWorldApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vadymmakohon/.nuget/NuGet/NuGet.Config"

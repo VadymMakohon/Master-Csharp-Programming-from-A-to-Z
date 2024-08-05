@@ -1,5 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-// this is another comment
+﻿// declare a (string) variable
+string myFriendsName;
+// assign a value to the myFriendsName variable
+myFriendsName = "Jannick";
 
-// This line of code wil print hte line "Hello, Vadym!"
-Console.WriteLine("Hello, Vadym!");
+// use/access the variable
+Console.WriteLine(myFriendsName);
+
+myFriendsName = "Frank";
+Console.WriteLine(myFriendsName);
+
+Console.ReadKey();
