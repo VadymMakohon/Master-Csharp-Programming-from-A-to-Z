@@ -1,5 +1,5 @@
 # Master C# Programming from A to Z
-Dive Deep into .NET: Mastering OOP, Clean Code, LINQ, WPF, Generics, Unit Testing, and More
+Dive Deep into .NET: Mastering OOP, Clean Code, LINQ, WPF, Generics, Unit Testing...
 
 ## Course Description:
 Unlock the full potential of .NET with this comprehensive course designed for both beginners and experienced developers. This Udemy course offers an in-depth exploration of .NET, covering essential topics such as Object-Oriented Programming (OOP), writing Clean Code, leveraging Language Integrated Query (LINQ), building applications with Windows Presentation Foundation (WPF), and mastering advanced concepts like Generics and Unit Testing.
