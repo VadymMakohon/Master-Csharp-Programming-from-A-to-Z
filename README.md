@@ -18,5 +18,11 @@ Unlock the full potential of .NET with this comprehensive course designed for bo
 - Experienced Developers: Enhance your skills and stay up-to-date with the latest .NET technologies and best practices.
 - Students: Gain practical knowledge that complements your academic studies and prepares you for real-world development.
 
+## 📜 License
+This repository is for educational purposes only and has an MIT License
+
+### Show your support
+Give a ⭐ if you like this website!
+
 # Contributors
 - [Vadym Makohon](https://github.com/VadymMakohon)
