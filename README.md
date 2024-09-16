@@ -18,6 +18,9 @@ Unlock the full potential of .NET with this comprehensive course designed for bo
 - Experienced Developers: Enhance your skills and stay up-to-date with the latest .NET technologies and best practices.
 - Students: Gain practical knowledge that complements your academic studies and prepares you for real-world development.
 
+## Github repo
+This is the [link](https://github.com/VadymMakohon/Master-Csharp-Programming-from-A-to-Z) to the Github repo of the project
+
 ## 📜 License
 This repository is for educational purposes only and has an MIT License
 
